@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleView">
+        <attr name="bigRadius" format="dimension"/>
+        <attr name="smallRadius" format="dimension"/>
+        <attr name="color" format="color"/>
+        <attr name="text" format="string"/>
+        <attr name="textsize" format="dimension"/>
+    </declare-styleable>
+</resources>
